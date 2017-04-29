@@ -1,0 +1,21 @@
+h1 {
+  font-size: 5em;
+}
+
+body {
+  color: white;
+  text-align: center;
+  background-image: url("/img/dark-bg1.jpg");
+  font-family: 'Baloo', cursive;
+}
+
+.btn {
+  color: white;
+  background-color: purple;
+  padding: 1em;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+
